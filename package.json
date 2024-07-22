@@ -1,0 +1,15 @@
+{
+  "name": "floon",
+  "version": "1.0.0",
+  "description": "Floon feita para flutuar seu youtube sobre todos os apps da sua tela",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Gabriel Morais",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.1"
+  }
+}
