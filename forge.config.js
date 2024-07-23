@@ -14,7 +14,7 @@ module.exports = {
           owner: "gabrielbriks",
           name: "floon",
         },
-        prerelease: false,
+        prerelease: true,
         draft: true,
       },
     },
