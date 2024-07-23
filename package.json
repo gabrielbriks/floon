@@ -1,6 +1,6 @@
 {
   "name": "floon",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "Floon feita para flutuar seu youtube sobre todos os apps da sua tela",
   "main": "main.js",
   "scripts": {
