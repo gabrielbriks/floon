@@ -1,6 +1,10 @@
 const { app, BrowserWindow } = require("electron");
 const path = require("node:path");
 const { url } = require("./config.js");
+// const { updateElectronApp } = require("update-electron-app");
+
+// updateElectronApp(); // additional configuration options available
+
 let mainWindow;
 
 const createWindow = () => {
